@@ -1,0 +1,37 @@
+{
+   "token": "ODg0NTYxNjI3NzAwMTQ2MjI2.YTaSNg.F5sk3Y7evRMrQEJ-MGAEp-ROr3E",
+   "prefix": "d!",
+   "ownerIDS": [
+      "846794001050894360"
+   ],
+   "memer_api": "cvkjPoeisHJ",
+   "status": {
+      "text": "{guildcount} | Servers",
+      "text2": "I love you Emmaa 🥰😍",
+      "type": "PLAYING"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "node03.lavalink.eu",
+            "port": 2333,
+            "password": "Raccoon"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "053469ffeb3844079fab734ebf3090c2",
+      "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
